@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahd-Ebrahem&show_icons=true&theme=radical" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&height=45&lines=Frontend+Developer;React.js+Enthusiast;Building+Clean+UI+and+UX" />
 </p>
 
 ---
