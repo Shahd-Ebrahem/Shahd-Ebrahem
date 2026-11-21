@@ -49,8 +49,9 @@
 
 ## 🏆 Experience & Training
 
-- **Front-End Developer Trainee** — DEPI *(Nov 2025 – Present)*
 - **ITI Front-End Track Graduate** *(July 2025)*
+- **Front-End Developer Trainee** — DEPI *(Nov 2025 – July 2026)*
+
 
 
 ---
